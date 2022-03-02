@@ -1,3 +1,6 @@
 .chores {
     color: #ff4f33;
  }
+ ul{
+    list-style-type: none;
+ }
