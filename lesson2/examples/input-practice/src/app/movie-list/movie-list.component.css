@@ -9,3 +9,9 @@
  .center {
     text-align: center;
  }
+ .messageClass{
+    color: green;
+ }
+ .errorMessageClass{
+    color: red;
+ }
