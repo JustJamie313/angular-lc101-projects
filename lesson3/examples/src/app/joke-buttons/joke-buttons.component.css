@@ -1,0 +1,27 @@
+button{
+    width: 90%;
+    background-color: gold;
+}
+button:disabled{
+    background-color: unset;
+}
+.buttonframe{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+}
+.catchframe{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+.catchframe button{
+    width: 35%;
+}
+.move{
+    align-items: flex-end;
+}
